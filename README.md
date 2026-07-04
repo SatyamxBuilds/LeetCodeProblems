@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
+## Array
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0051-n-queens) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
