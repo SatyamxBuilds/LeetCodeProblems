@@ -5,18 +5,13 @@
  *     struct ListNode *next;
  * };
  */
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     struct ListNode *next;
- * };
- */
 
 static inline struct ListNode* merge(struct ListNode* a, struct ListNode* b)
 {
     struct ListNode dummy;
     struct ListNode *tail = &dummy;
+
+    dummy.next = NULL;
 
     while (a && b)
     {
@@ -34,7 +29,10 @@ static inline struct ListNode* merge(struct ListNode* a, struct ListNode* b)
         tail = tail->next;
     }
 
-    tail->next = a ? a : b;
+    if (a)
+        tail->next = a;
+    else
+        tail->next = b;
 
     return dummy.next;
 }
