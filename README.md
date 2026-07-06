@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 ## Array
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
