@@ -10,7 +10,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,cpp&perline=4" />
 </p>
 
 
