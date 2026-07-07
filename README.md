@@ -1,4 +1,19 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+
+<div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learner-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+</div>
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c&perline=2" />
+</p>
+
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
@@ -78,3 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
+
+<p align="center">
+ Thanks for visiting my profile!✨
+</p>
