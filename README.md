@@ -41,6 +41,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Combinatorics
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +95,11 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
 
 <p align="center">
