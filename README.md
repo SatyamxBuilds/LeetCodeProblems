@@ -32,6 +32,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 ## String
 |  |
@@ -43,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0051-n-queens) |
