@@ -22,6 +22,7 @@
 | [0007-reverse-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -34,11 +35,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 ## Array
