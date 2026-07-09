@@ -43,6 +43,7 @@
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 ## Array
 |  |
@@ -110,6 +111,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -120,6 +122,10 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0055-jump-game) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
 
 <p align="center">
