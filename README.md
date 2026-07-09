@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -64,6 +65,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -116,6 +118,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
 
