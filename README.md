@@ -23,6 +23,7 @@
 | [0009-palindrome-number](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
 ## Binary Search
@@ -133,6 +134,10 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
 
 <p align="center">
