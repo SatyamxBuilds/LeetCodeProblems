@@ -1,4 +1,9 @@
+#pragma GCC optimize("O3")
+
 struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
+    static struct ListNode nodePool[101];
+    int poolIdx = 0;
+    
     struct ListNode* head = NULL;
     struct ListNode** tail = &head;
     int carry = 0;
@@ -17,12 +22,12 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
 
         carry = sum / 10;
         
-        struct ListNode* newNode = (struct ListNode*)malloc(sizeof(struct ListNode));
+        struct ListNode* newNode = &nodePool[poolIdx++];
         newNode->val = sum % 10;
         newNode->next = NULL;
 
         *tail = newNode;
-        tail = &((*tail)->next);
+        tail = &(newNode->next);
     }
 
     return head;
