@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | [0011-container-with-most-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0051-n-queens) |
