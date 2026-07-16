@@ -27,6 +27,7 @@
 | [0029-divide-two-integers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0027-remove-element](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -156,6 +160,14 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
 
 <p align="center">
