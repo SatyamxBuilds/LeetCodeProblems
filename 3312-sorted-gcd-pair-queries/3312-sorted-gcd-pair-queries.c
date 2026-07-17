@@ -1,35 +1,41 @@
 #pragma GCC optimize("O3")
 
 int* gcdValues(int* nums, int numsSize, long long* queries, int queriesSize, int* returnSize) {
+    static long long freq[50005];
+    static long long countDivisor[50005];
+    static long long prefixGcd[50005];
+
     int maxVal = 0;
     for (int i = 0; i < numsSize; i++) {
         if (nums[i] > maxVal) maxVal = nums[i];
     }
 
-    long long* freq = (long long*)calloc(maxVal + 1, sizeof(long long));
+    for (int i = 0; i <= maxVal; i++) {
+        freq[i] = 0;
+        countDivisor[i] = 0;
+    }
+
     for (int i = 0; i < numsSize; i++) {
         freq[nums[i]]++;
     }
 
-    long long* countDivisor = (long long*)calloc(maxVal + 1, sizeof(long long));
     for (int i = 1; i <= maxVal; ++i) {
         for (int j = i; j <= maxVal; j += i) {
             countDivisor[i] += freq[j];
         }
     }
 
-    long long* gcdPairs = (long long*)calloc(maxVal + 1, sizeof(long long));
     for (int i = maxVal; i >= 1; --i) {
         long long totalPairs = (countDivisor[i] * (countDivisor[i] - 1)) >> 1;
         for (int j = 2 * i; j <= maxVal; j += i) {
-            totalPairs -= gcdPairs[j];
+            totalPairs -= countDivisor[j];
         }
-        gcdPairs[i] = totalPairs;
+        countDivisor[i] = totalPairs;
     }
 
-    long long* prefixGcd = (long long*)calloc(maxVal + 1, sizeof(long long));
+    prefixGcd[0] = 0;
     for (int i = 1; i <= maxVal; ++i) {
-        prefixGcd[i] = prefixGcd[i - 1] + gcdPairs[i];
+        prefixGcd[i] = prefixGcd[i - 1] + countDivisor[i];
     }
 
     int* result = (int*)malloc(queriesSize * sizeof(int));
@@ -51,11 +57,6 @@ int* gcdValues(int* nums, int numsSize, long long* queries, int queriesSize, int
         }
         result[i] = answer;
     }
-
-    free(freq);
-    free(countDivisor);
-    free(gcdPairs);
-    free(prefixGcd);
 
     return result;
 }
