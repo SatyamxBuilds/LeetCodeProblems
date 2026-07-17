@@ -27,6 +27,7 @@
 | [0029-divide-two-integers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -34,12 +35,14 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -67,6 +70,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -86,6 +90,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,7 +172,16 @@
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
 
 <p align="center">
