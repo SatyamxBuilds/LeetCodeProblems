@@ -27,6 +27,7 @@
 | [0029-divide-two-integers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -70,6 +71,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
@@ -172,6 +174,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
