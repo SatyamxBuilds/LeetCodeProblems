@@ -5,35 +5,26 @@ int** shiftGrid(int** grid, int gridSize, int* gridColSize, int k, int* returnSi
     int n = gridColSize[0];
     int total = m * n;
 
-    k = k % total;
+    *returnSize = m;
+    int* colSizes = (int*)malloc(m * sizeof(int));
+    for (int i = 0; i < m; i++) colSizes[i] = n;
+    *returnColumnSizes = colSizes;
 
     int** result = (int**)malloc(m * sizeof(int*));
-    *returnColumnSizes = (int*)malloc(m * sizeof(int));
-    *returnSize = m;
-
+    int* data = (int*)malloc(total * sizeof(int));
     for (int i = 0; i < m; i++) {
-        result[i] = (int*)malloc(n * sizeof(int));
-        (*returnColumnSizes)[i] = n;
+        result[i] = data + i * n;
     }
 
-    if (k == 0) {
-        for (int r = 0; r < m; r++) {
-            for (int c = 0; c < n; c++) {
-                result[r][c] = grid[r][c];
-            }
-        }
-        return result;
-    }
+    k %= total;
+    if (k < 0) k += total;
 
     for (int r = 0; r < m; r++) {
         for (int c = 0; c < n; c++) {
-            int oldFlatIndex = r * n + c;
-            int newFlatIndex = (oldFlatIndex + k) % total;
+            int newFlatIndex = (r * n + c + k);
+            if (newFlatIndex >= total) newFlatIndex -= total;
             
-            int newR = newFlatIndex / n;
-            int newC = newFlatIndex % n;
-            
-            result[newR][newC] = grid[r][c];
+            data[newFlatIndex] = grid[r][c];
         }
     }
 
