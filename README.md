@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0014-longest-common-prefix) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0045-jump-game-ii) |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0021-merge-two-sorted-lists) |
 ## Bit Manipulation
 |  |
