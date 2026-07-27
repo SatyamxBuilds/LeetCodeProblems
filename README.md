@@ -75,6 +75,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1260-shift-2d-grid](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -109,12 +110,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
