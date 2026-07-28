@@ -58,6 +58,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0038-count-and-say) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -204,6 +206,10 @@
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
 
 <p align="center">
