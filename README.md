@@ -27,6 +27,7 @@
 | [0029-divide-two-integers](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0069-sqrtx) |
+| [0877-stone-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -75,6 +76,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0877-stone-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -96,6 +98,7 @@
 | [0055-jump-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0877-stone-game) |
 ## Combinatorics
 |  |
 | ------- |
@@ -210,6 +213,10 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/SatyamxBuilds/LeetCodeProblems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
 
 <p align="center">
